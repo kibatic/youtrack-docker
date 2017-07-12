@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:8
 MAINTAINER Philippe Le Van <philippe.levan@kibatic.com>
 
 ENV YOUTRACK_VERSION=2017.2.34480
